@@ -15,4 +15,4 @@ Algunas de las tecnologías que manejo son:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
 
-En enero de 2025 fuí parte de un programa de la Universidad Tecnica Federico Santa Maria donde se utilizo ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) para resolver problemas de matemáticas y uso básico del lenguaje.
+En enero de 2025 fuí parte de un programa de la Universidad Tecnica Federico Santa Maria donde se utilizó ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) para resolver problemas de matemáticas conocer las funciones básicas de este lenguaje.
