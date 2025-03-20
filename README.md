@@ -2,7 +2,7 @@
 # Lamzykoss 🫰
 
 ### Un poco sobre mi:
-Fui mini leaker de Fortnite dentro de la red social [X](https://x.com/lamzykoss) durante el 2020-2023, en donde comencé a conocer un poco sobre el desarrollo de apps de consola y sobre la documentación de discord para el desarrollo de bots.
+Fui mini leaker de Fortnite dentro de la red social [X](https://x.com/lamzykoss) durante el 2020-2023, en donde comencé a conocer un poco sobre el desarrollo de apps de consola y sobre la documentación de discord para el desarrollo de bots. Desde entonces programo :D
 
 ### Estudios
 Actualmente me encuentro cursando mi primer año de Ingeniería civil informática en la Universidad Autónoma De Chile (2025).
